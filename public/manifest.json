@@ -9,7 +9,7 @@
     "128": "quoteIcon128.png"
   },
   "browser_action": {
-    "default_icon": "quoteIcon128.png",
+    "default_icon": "quoteIcon.png",
     "default_popup": "popup.html"
   }
 }
